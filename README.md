@@ -1,22 +1,34 @@
 # Smart Blood Donation Platform
 
-A software engineering project designed to improve the process of blood donation through a structured system.
+**Software engineering · Requirements · System design**
 
-## Features
+A university team project exploring how a structured system could support blood donation, from donor registration to matching requests with suitable donors.
+
+## Proposed workflow
+
+1. A donor registers their information.
+2. A user submits a blood request.
+3. The system identifies suitable donors.
+4. Notifications support the next steps.
+
+## Planned features
+
 - Donor registration and management
-- Blood request system
-- Matching donors with recipients
-- Notification system
+- Blood request management
+- Donor–recipient matching
+- Notifications
 
-## My Contribution
-- Contributed to system design and requirements (SRS)
-- Worked on feature planning and structure
-- Participated in designing system workflow
+## My contribution
 
-## Tools & Concepts
-- Software Engineering principles
-- System Design
-- UML Diagrams
+- Contributed to system design and requirements (SRS).
+- Worked on feature planning and structure.
+- Participated in designing the system workflow.
 
-## Note
-This is a team project developed as part of a university course.****
+## Repository status
+
+This repository currently contains the project overview. Requirements documents, UML diagrams, and implementation files are not included here yet.
+
+## Related work
+
+For a separate PHP/MySQL implementation, see [Fidak — Blood Donation Management System](https://github.com/iiYARA/fidak-blood-donation-management-system).
+
